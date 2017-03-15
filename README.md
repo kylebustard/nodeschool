@@ -1,4 +1,4 @@
-### This is the official readme from nodeschool, MIT license
+### This is the official readme from nodeschool (not my work), MIT license
 ---
 # JAVASCRIPTING
 
